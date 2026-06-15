@@ -30,6 +30,7 @@
 | **Спринт 10** | [go1fl-10-sprint-final](https://github.com/learning-go-developer/go1fl-10-sprint-final) | ✅ Merged |
 | **Спринт 11** | [go1fl-11-sprint-final](https://github.com/learning-go-developer/go1fl-11-sprint-final) | ✅ Complete |
 | **Тестовое задание** | [hello-golang](https://github.com/learning-go-developer/hello-golang) | ✅ Complete |
+| **Спринт 12** | [go1fl-12-sprint-final](https://github.com/learning-go-developer/go1fl-12-sprint-final) | ✅ Merged |
 
 ---
 
